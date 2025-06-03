@@ -1,8 +1,10 @@
-# Bootstrapper-Blueprints
+# Strapper Blueprints
 
-A community repository of project blueprints for the [Bootstrapper VS Code Extension](https://github.com/topdown/bootstrapper).
+A community repository of project blueprints for the [Bootstrapper VS Code Extension](https://github.com/Strapperorg/boostrapper).
 
 That plugin and these blueprints should work in all VSCode flavored editors. Cursor, WindSurf, etc...
+
+You can also explore blueprints through our searchable website at [strapper.org](https://strapper.org/).
 
 ## What are Bootstrapper Blueprints?
 
@@ -17,7 +19,7 @@ Bootstrapper blueprints are project templates that allow you to quickly scaffold
 
 ### Prerequisites
 
-1. Install the [Bootstrapper VS Code Extension](https://github.com/topdown/bootstrapper)
+1. Install the [Bootstrapper VS Code Extension](https://github.com/Strapperorg/boostrapper)
 2. Open VS Code (or Cursor, WindSurf, etc.)
 
 ### Access Community Blueprints
@@ -34,6 +36,7 @@ Bootstrapper blueprints are project templates that allow you to quickly scaffold
 You can also access community blueprints through:
 - `Bootstrapper: Manage Blueprints` → "Browse Community Blueprints"
 - The blueprint management interface in VS Code
+- Our searchable website at [strapper.org](https://strapper.org/)
 
 ## Contributing Blueprints
 
@@ -41,10 +44,10 @@ We welcome contributions! Here's how to add your blueprint to the community coll
 
 ### Repository Structure
 
-Each blueprint should be in its own folder within the `blueprints/` directory:
+Each blueprint should be in its own folder in the root directory:
 
 ```
-blueprints/
+Strapperorg/blueprints/
 ├── your-blueprint-name/
 │   ├── blueprint.json       # Required: Blueprint definition
 │   └── README.md           # Recommended: Documentation
@@ -57,7 +60,7 @@ blueprints/
 ### Step-by-Step Contribution
 
 1. **Fork this repository**
-2. **Create a new folder** in `blueprints/` with a descriptive name
+2. **Create a new folder** in the root with a descriptive name
 3. **Add `blueprint.json`** with your blueprint definition
 4. **Add `README.md`** with documentation (highly recommended)
 5. **Test your blueprint** using the Bootstrapper extension
@@ -198,7 +201,7 @@ Before submitting, ensure your blueprint:
 ## Available Blueprints
 
 ### Web Development
-- **[Static Website Starter](blueprints/Static-Website-Starter/)** - Basic HTML, CSS, and JavaScript template for static websites
+- **[Static Website Starter](Static-Website-Starter/)** - Basic HTML, CSS, and JavaScript template for static websites
 
 ### APIs & Backend
 - Coming soon...
@@ -213,8 +216,8 @@ Before submitting, ensure your blueprint:
 
 ## Support
 
-- **Extension Issues**: [Bootstrapper Repository](https://github.com/topdown/bootstrapper/issues)
-- **Blueprint Issues**: [Create an issue](https://github.com/topdown/Bootstrapper-Blueprints/issues) in this repository
+- **Extension Issues**: [Bootstrapper Repository](https://github.com/Strapperorg/boostrapper/issues)
+- **Blueprint Issues**: [Create an issue](https://github.com/Strapperorg/blueprints/issues) in this repository
 - **Feature Requests**: Welcome via issues or discussions
 
 ## License
