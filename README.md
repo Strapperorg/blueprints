@@ -1,6 +1,6 @@
 # Strapper Blueprints
 
-A community repository of project blueprints for the [Bootstrapper VS Code Extension](https://github.com/Strapperorg/boostrapper).
+A community repository of project blueprints for the [Bootstrapper VS Code Extension](https://github.com/Strapperorg/bootstrapper).
 
 That plugin and these blueprints should work in all VSCode flavored editors. Cursor, WindSurf, etc...
 
@@ -19,7 +19,7 @@ Bootstrapper blueprints are project templates that allow you to quickly scaffold
 
 ### Prerequisites
 
-1. Install the [Bootstrapper VS Code Extension](https://github.com/Strapperorg/boostrapper)
+1. Install the [Bootstrapper VS Code Extension](https://github.com/Strapperorg/bootstrapper)
 2. Open VS Code (or Cursor, WindSurf, etc.)
 
 ### Access Community Blueprints
@@ -216,7 +216,7 @@ Before submitting, ensure your blueprint:
 
 ## Support
 
-- **Extension Issues**: [Bootstrapper Repository](https://github.com/Strapperorg/boostrapper/issues)
+- **Extension Issues**: [Bootstrapper Repository](https://github.com/Strapperorg/bootstrapper/issues)
 - **Blueprint Issues**: [Create an issue](https://github.com/Strapperorg/blueprints/issues) in this repository
 - **Feature Requests**: Welcome via issues or discussions
 
